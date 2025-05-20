@@ -47,3 +47,8 @@ const demid = new people('Demid',15,'free')
 
 console.log(demid.name)
 
+class swag{
+    swagometr(){
+        console.log('you Lame')
+    }
+}
