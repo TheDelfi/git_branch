@@ -45,5 +45,9 @@ class people{
 
 const demid = new people('Demid',15,'free')
 
-console.log(demid.name)
+function lol(){
+    console.log('ServiceWorkerRegistration')
+}
 
+
+lol()
