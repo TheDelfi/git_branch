@@ -21,3 +21,12 @@ function loll(){
     console.log('swag')
 
 }
+
+class animal{
+    constructor(name,type){
+        this.name = name;
+        this.type = this.type
+    }
+}
+
+const dog = new animal('Jessy', 'Кокер-Спаниель')
